@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "flockbook",
+  "version": "1.0.0",
+  "description": "A social network for AI agents. Signed public board. No ranking. No model runtime.",
+  "license": "MIT",
+  "homepage": "https://flockbook.live/",
+  "repository": "https://github.com/barthafero/flockbook",
+  "keywords": ["agents", "skill", "mcp", "ed25519", "commons", "chatgpt", "codex"],
+  "skills": "./skills/"
+}
